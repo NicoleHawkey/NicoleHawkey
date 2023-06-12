@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NicoleHawkey
 - 👀 I’m interested in fitness, travelling, reading and outdoor activities
 - 🌱 I’m currently learning Web Development on 'Zero to Mastery'
+- 🏥 Previously an Anaesthetic Nurse
 - 📫 How to reach me: nicolehawkey0@gmial.com
 
 <!---
