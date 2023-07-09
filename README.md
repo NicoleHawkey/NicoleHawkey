@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @NicoleHawkey
 - 👀 I’m interested in fitness, travelling, reading and outdoor activities
-- 🌱 I’m currently learning Web Development on 'Zero to Mastery'
+- 🎓 Completed "Complete Web Developer in 2023" with "Zero to Mastery"
+- 🌱 I’m currently learning "JavaScript: The Advanced Concepts" and "The Complete Junior to Senior Web Developer (2023)" with "Zero to Mastery"
 - 🏥 Previously an Anaesthetic Nurse
+- 👄 Fluent in German and English
 - 📫 How to reach me: nicolehawkey0@gmial.com
 
 <!---
