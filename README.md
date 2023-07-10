@@ -5,7 +5,6 @@
 - 🏥 Previously an Anaesthetic Nurse
 - 👄 Fluent in German and English
 - 📫 How to reach me: nicolehawkey0@gmial.com
-- LinkedIn: www.linkedin.com/in/nicole-hawkey123
 
 
 ### Skills 
@@ -19,6 +18,11 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 </p>
+
+
+### Socials
+<p align="left">
+<a href="https://www.linkedin.com/in/nicole-hawkey123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
                     
 <!---
 NicoleHawkey/NicoleHawkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
