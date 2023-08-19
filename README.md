@@ -6,6 +6,7 @@
 - 🏥 Previously an Anaesthetic Nurse
 - 👄 Fluent in German and English
 - 📫 How to reach me: nicolehawkey0@gmail.com
+- 🌐 https://www.nicolehawkey.com
 
 
 ### Skills 
