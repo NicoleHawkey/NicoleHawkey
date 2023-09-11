@@ -2,7 +2,7 @@
 ==========================================
 - 👀 I’m interested in fitness, travelling, reading and outdoor activities
 - 🎓 Completed "Complete Web Developer" and "JavaScript: The Advanced Concepts" with "Zero to Mastery Academy"
-- 🌱 I’m currently completing "The Complete Junior to Senior Web Developer (2023)" with "Zero to Mastery Academy"
+- 🌱 I’m currently completing "The Complete Junior to Senior Web Developer (2023)" and "Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL)" with "Zero to Mastery Academy"
 - 🏥 Previously an Anaesthetic Nurse
 - 👄 Fluent in German and English
 - 📫 How to reach me: nicolehawkey0@gmail.com
